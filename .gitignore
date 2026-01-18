@@ -1,0 +1,9 @@
+venv/
+sgf_downloads/
+sgf_files/
+analysis.db
+downloaded_history.txt
+ko_checked_games.txt
+ko_analysis_report.txt
+ko_fights_log.txt
+__pycache__/
